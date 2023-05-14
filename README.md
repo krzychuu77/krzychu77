@@ -1,6 +1,8 @@
 # [Krzychuu77]
 ### PL
 > Siema, jestem Krzychu77, w wolnym czasie zajmuję się web-devem, głównie JavaScript
+> moje projekty to głównie gry i skrypty na strony z memami
+> nie programuję zawodowo, nie znam angielskiego dlatego mój kod jest daleki od standardów.
 
 ### EN
 > Hello, Im Krzychu77, Im part-time web dev with speciality in JavaScript.
